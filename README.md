@@ -1,11 +1,16 @@
 <h1 align="center">Hi, I'm Elif 👋</h1>
+---
+### 💬 About Me
 
-## 💬 About Me
-I am a  Software Engineering student passionate about software development and web technologies.  
-Currently, I am focusing on building full-stack web applications using modern JavaScript frameworks and backend technologies.
+I'm a Software Engineering student passionate about building full-stack web applications.  
+I love solving algorithmic challenges, learning new technologies, and developing projects to strengthen my portfolio.  
+Currently focused on modern JavaScript frameworks and backend tools.
 
-As a Software Engineering student, I am eager to learn and apply new technologies. I enjoy solving algorithmic problems and improving my coding skills regularly on platforms like LeetCode.  
-I am actively developing projects to build a strong portfolio and contribute to open source.
+---
+### 🌐 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elif-n-kıyık-b98049320/) 
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elfkyk)
 
 ---
 
@@ -31,16 +36,4 @@ I am actively developing projects to build a strong portfolio and contribute to 
 
 ---
 
-## 📫 Contact Me
-
-- 📧 elifkxx99@gmail.com
-- 💼 [LinkedIn](https://www.linkedin.com/in/elif-n-kıyık-b98049320/)
-
-### 🌐 Connect with me
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elif-n-kıyık-b98049320/) 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/elfkyk)
-
-
----
 
