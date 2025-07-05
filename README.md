@@ -13,6 +13,8 @@ Currently, I am focusing on building full-stack web applications using modern Ja
 - **Tools:** Git, GitHub, Postman
 
 ---
+[![Elif's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=elfkyk&layout=compact&langs_count=8&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ## 💬 About Me
 
