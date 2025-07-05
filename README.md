@@ -37,9 +37,10 @@ Currently focused on modern JavaScript frameworks and backend tools.
 <p align="left">
   <img src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" alt="Python" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b42b2ff38c5bd6f0f9d9/topics/cpp/cpp.png" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/fd1a8f26eb013d9ba6f3dc6b27f646948b9d4033/topics/javascript/javascript.png" alt="JavaScript" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/fd1a8f26eb013d9ba6f3dc6b27f646948b9d4033/topics/html/html.png" alt="HTML5" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/cpp.svg" alt="C++" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/jmnote/z-icons/master/svg/javascript.svg" alt="JS" width="40" height="40"/>
+  
+  <img src="68747470733a2f2f63646e2e69636f6e2d69636f6e732e636f6d2f69636f6e73322f323431352f504e472f3531322f6a6176615f6f726967696e616c5f776f72646d61726b5f6c6f676f5f69636f6e5f3134363435392e706e67" alt="  Java" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/fd1a8f26eb013d9ba6f3dc6b27f646948b9d4033/topics/css/css.png" alt="CSS3" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/bb93a66338e1cf3820f5bafc7d6f39bae824ffba/topics/react/react.png" alt="React" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/37ba9e8f1d9d31eb8f3e9a9623e0e5e3fba4c43d/topics/nodejs/nodejs.png" alt="Node.js" width="40" height="40"/>
