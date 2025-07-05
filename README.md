@@ -36,8 +36,8 @@ Currently focused on modern JavaScript frameworks and backend tools.
 
 <p align="left">
   <img src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/python/python.png" alt="Python" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/05d0f0dfceafd861bdf2b42b2ff38c5bd6f0f9d9/topics/cpp/cpp.png" alt="C++" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/github/explore/8688903e5b9ffcd3f69f3b9171b3f57d7d9114a6/topics/csharp/csharp.png" alt="C#" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/fd1a8f26eb013d9ba6f3dc6b27f646948b9d4033/topics/javascript/javascript.png" alt="JavaScript" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/fd1a8f26eb013d9ba6f3dc6b27f646948b9d4033/topics/html/html.png" alt="HTML5" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/github/explore/fd1a8f26eb013d9ba6f3dc6b27f646948b9d4033/topics/css/css.png" alt="CSS3" width="40" height="40"/>
