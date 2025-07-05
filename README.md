@@ -1,10 +1,8 @@
 <h1 align="center">Hi, I'm Elif 👋</h1>
 
+## 💬 About Me
 I am a  Software Engineering student passionate about software development and web technologies.  
 Currently, I am focusing on building full-stack web applications using modern JavaScript frameworks and backend technologies.
-
----
-## 💬 About Me
 
 As a Software Engineering student, I am eager to learn and apply new technologies. I enjoy solving algorithmic problems and improving my coding skills regularly on platforms like LeetCode.  
 I am actively developing projects to build a strong portfolio and contribute to open source.
